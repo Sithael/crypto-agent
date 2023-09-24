@@ -1,0 +1,9 @@
+# Crypto-Agent
+Welcome to crypto-agent, a project that embodies not only the implementation of Reinforcement Learning for cryptocurrency trading, specifically Bitcoin, but also my personal voyage into the captivating sphere of Deep Reinforcement Learning (RL). As a tangible reflection of my learning trajectory, this repository encapsulates an evolving comprehension of intricate RL algorithms and deep learning models in the context of financial markets.
+
+## A Learning Expedition
+Exploring the crypto-agent is not just an undertaking for me, it's an authentic educational odyssey into the realm of Deep Reinforcement Learning. Instead of striving for perfection immediately, I prefer a methodical approach, bent on gaining comprehensive insights into every facet of RL applied to Bitcoin trading.
+
+My methodology? Intense scrutiny. I find myself meticulously reviewing and re-reading academic papers, ensuring that I glean every detail and data point. Once I'm confident of my theoretical foundation, I immerse myself into pragmatic applications, implementing these theories in manageable sizes, akin to assembling a massive jigsaw puzzle.  Every knowledge facet brings me one step closer towards completing the grand scheme.
+crypto-agent now leverages Gymnasium and Ray RLlib, two potent technologies widely used in the RL community, allowing for the execution of multiple tasks and strategies in the environment manager and env_api design. As part of this continuous learning and development journey, I plan on enhancing crypto-agent, integrating capabilities such as offline data handling and other notable technologies.
+These augmentation initiatives should make crypto-agent an impressive tool for anyone keen on making inroads into the world of Reinforcement Learning in the scope of cryptocurrency trading.

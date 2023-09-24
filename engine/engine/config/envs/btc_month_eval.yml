@@ -1,0 +1,19 @@
+strategy:
+  action_count: 1
+  action_low: -0.4
+  action_high: 0.4
+  success_profit_percent: 0.94
+
+data_engine:
+  iterator_type: "offline"
+  crypto_type: "btc"
+  time_interval: "1min"
+  day_count: 30
+
+task:
+  initial_capital: 100_000
+  initial_crypto_capital: 0
+  min_capital: 0
+  min_crypto_capital: 0
+  commission: 0.0002
+  reward_ratio: 10_000
